@@ -12,7 +12,11 @@ A daily and weekly checklist for Aion 2, as a plugin for the [A2Tools DPS Meter]
 - **Subscription switch** for the higher energy and Shugo caps and the Subscriber Shop's Odyle Energy.
 - **Fully manual.** It reads nothing from the game: you tick everything yourself. It only asks A2Tools to save its own data.
 
-## Install
+## Install with Daeva Hub
+
+In [Daeva Hub](https://github.com/ImTheFakeOne/daeva-hub), open **Settings**, add the repository `github.com/ImTheFakeOne/aion2-checklist`, then install **Aion 2 Checklist** from **Browse**. Updates arrive with **Update all**.
+
+## Install in A2Tools
 
 You need A2Tools 2.0.62 or newer.
 
