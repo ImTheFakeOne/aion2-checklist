@@ -5,6 +5,13 @@
   --main: #3fd3ec; --alt: #ff6b5c; --gold: #e0b555; --done: #5cc47a;
   color-scheme: dark;
 }
+/* In Daeva Hub, the player's colours (Appearance) replace these. */
+:root.a2-themed {
+  --fg: var(--a2-text); --muted: var(--a2-muted); --line: color-mix(in srgb, var(--a2-border) 85%, transparent);
+  --card: color-mix(in srgb, var(--a2-surface) 55%, transparent); --gold: var(--a2-accent); --done: var(--a2-good); --alt: var(--a2-bad);
+}
+:root.a2-themed body { font-family: var(--a2-font); font-size: var(--a2-font-size); }
+:root.a2-light { color-scheme: light; }
 * { box-sizing: border-box; }
 html, body { background: transparent; }
 body { margin: 0; padding: 8px 10px 12px; color: var(--fg); font: 13px/1.35 "Segoe UI", system-ui, sans-serif; }

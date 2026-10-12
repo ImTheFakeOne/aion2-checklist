@@ -1,7 +1,7 @@
 {
   "id": "aion2-checklist",
   "name": "Aion 2 Checklist",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "apiVersion": 2,
   "author": "",
   "description": "Daily and weekly checklist for every character, with the official resets. You tick everything yourself.",
