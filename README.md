@@ -18,7 +18,7 @@ You need A2Tools 2.0.62 or newer.
 
 1. Download this repository (green **Code** button → **Download ZIP**, then unzip it), or clone it:
    ```
-   git clone https://github.com/OWNER/aion2-checklist.git
+   git clone https://github.com/ImTheFakeOne/aion2-checklist.git
    ```
 2. In A2Tools open **Settings → Plugins**, turn on **Plugin developer mode**, choose **Load plugin folder…** and pick the folder that contains `manifest.json`.
 3. Open the plugin. It's labelled "Unreviewed plugin" because it isn't in the A2Tools catalogue yet.
